@@ -4,6 +4,7 @@
 
 - 🔭 Hoje trabalho com back-end
 - 🌱 estudando java
+- 📩 contate-me por: kelwinzambarda@gmail.com
 
   ---
 ### 🤖 Linguagens e Tecnologias
