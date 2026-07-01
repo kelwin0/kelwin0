@@ -49,20 +49,3 @@
 </br>
   <div>
     
-  ### 📊 Estatísticas
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=kelwin0&show_icons=false&theme=tokyonight&include_all_commits=true&locale=pt-br&cache_seconds=1800" 
-  />
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelwin0&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=1800" 
-  />
-</p>
-  </div>
